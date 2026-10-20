@@ -1,4 +1,6 @@
-<h1 data-importer="text" align="center">Sanosec</h1>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZycXR6dTZlbWR6bjkyNm4wMGRmZXFiZXJtcTV5azRxM2xncWljNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/btWXJ1VKPVDLtKxHP9/giphy.gif"  />
+</div>
 
 ###
 
@@ -12,20 +14,12 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZycXR6dTZlbWR6bjkyNm4wMGRmZXFiZXJtcTV5azRxM2xncWljNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/btWXJ1VKPVDLtKxHP9/giphy.gif"  />
-
-###
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=sanosec&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanosec/sanosec/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanosec/sanosec/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sanosec/sanosec/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<br clear="both">
 
 ###
