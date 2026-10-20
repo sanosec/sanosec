@@ -1,9 +1,9 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZycXR6dTZlbWR6bjkyNm4wMGRmZXFiZXJtcTV5azRxM2xncWljNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/btWXJ1VKPVDLtKxHP9/giphy.gif" alt="Descrição do GIF" width="400px">
+</p>
 ###
 
 <div data-importer="techs" align="left">
@@ -32,11 +32,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/sanosec/sanosec/snake-output/snake.svg" alt="Snake animation" />
 
 ###
